@@ -23,6 +23,11 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
+		},
+		{},
+		{
+			"photo": "https://cdn.rawgit.com/AlexJupiter/mv-data/240f684a5eb9af775026faba5a5f87c9e88b4339/images/madcat.jpeg",
+			"name": "Mad Cat"
 		}
 	]
 }
